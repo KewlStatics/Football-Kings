@@ -1,2 +1,3 @@
-# footballkings
-A Football Based Game Application Under Construction
+# FootballKings
+A Football Based Game Application!!
+..**Under Construction**..
