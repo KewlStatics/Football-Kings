@@ -1,0 +1,42 @@
+
+/*body { 
+     background: url('http://i.imgur.com/aGi7zJU.jpg') no-repeat center center fixed;    
+     background-size:1000px;  /*For covering full page*/
+    /*border: 2px    solid #000;
+     color: black;
+     text-shadow: 0px -1px 0px #000 ;
+     border-radius: 2px ;
+     margin: 10px;
+}
+*/
+
+#online-button { /* login button style */
+	border: 2px solid #fff ;
+	border-radius: 15px 0px ;
+	color: #fff;
+	height:30px;
+    width:80px;
+	background: #000 ;
+	position:relative;
+    transition: .5s ease;
+    top: 101px;
+    left: 100px;
+    right: -120px;
+    bottom: -191px;
+}
+
+#practice-button { /* practice button style */
+	border: 2px solid #fff ;
+	border-radius: 15px 0px ;
+	background-size:10px;
+	color: #fff;
+	height:30px;
+    width:80px;
+	background: #000 ;
+	position:relative;
+    transition: .5s ease;
+    top: 101px;
+    left: -100px;
+    right: +120px;
+    bottom: +191px;
+}
