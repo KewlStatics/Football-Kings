@@ -6,6 +6,9 @@
 	    "email": "shivamrustagi2@gmail.com",
 	    "url": "https://github.com/Kewlstatics"
   },
+"scripts": {
+    "start": "node server.js"
+  },
   "contributors": [
     {
       "name": "HoeenHero",
