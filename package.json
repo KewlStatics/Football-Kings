@@ -2,11 +2,11 @@
   "name": "footballkings",
   "version": "0.0.1",
   "author": {
-  "name": "Khush Goyal",
-	    "email": "shivamrustagi2@gmail.com",
-	    "url": "https://github.com/Kewlstatics"
+    "name": "Khush Goyal",
+    "email": "shivamrustagi2@gmail.com",
+    "url": "https://github.com/Kewlstatics"
   },
-"scripts": {
+  "scripts": {
     "start": "node server.js"
   },
   "contributors": [
@@ -18,9 +18,12 @@
       "name": "Rambo",
       "url": "https://github.com/rambo199"
     }
-   ],
-   "repository": {
-	"type": "git",
-	"url": "https://github.com/Kewlstatics/Footballkings.git"
-   }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kewlstatics/Footballkings.git"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
